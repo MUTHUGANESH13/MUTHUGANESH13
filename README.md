@@ -1,7 +1,7 @@
 ## Hi there 👋 It's me Muthuganesh
 
 Computer Science and Engineering Student @Velammal Engineering College
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+<img align="right" width="370" height="290" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 - 🔭 Here's my [portfolio]()                                                 
 - 🌱 I’m currently learning DSA
 - ⚡ Fun fact: I Like keeping things simple and efficient.
